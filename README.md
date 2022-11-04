@@ -1,1 +1,0 @@
-# mapbox-pencil-draw-upload
